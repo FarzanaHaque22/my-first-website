@@ -85,7 +85,7 @@ nav.sign{
             border-radius: 15%;
             border-color: #0E0E0E;
             border-width: thin;
-            
+
         }
         .pillar-title{
             font-size: 20px;
@@ -99,3 +99,62 @@ nav.sign{
             text-align: left;
 
         }
+        .vision-title{
+            font-size: 20px;
+            font-weight: bold;
+            color: #0E0E0E;
+            text-align: left;
+        }
+        .vision-describe2{
+            font-weight: normal;
+            font-size: 16px;
+            text-align: left;
+
+        }
+        .Vision-bd1 , .Vision-bd2 , .Vision-bd3{
+            display: flex;
+            border-radius: 20%;
+            padding-top: 24px;
+            padding-bottom: 24px;
+            margin: 32px;
+            gap: 24px;
+
+        }
+        .vision-title1{
+            text-align: left;
+            font-size: 40px;
+            font-weight: bold;
+
+        }
+        .vision-describe1{
+            font-size: 16px;
+            font-weight: normal;
+            color: #0E0E0E;
+
+        }
+        .Vision-bd1{
+            background-color: palevioletred;
+        }
+        .Vision-bd2{
+            background-color: burlywood;
+        }
+        .Vision-bd3{
+            background-color: mediumturquoise;
+        }
+        .vision-button1{
+            background-color: palevioletred;
+        }
+        .vision-button2{
+            background-color: burlywood;
+        }
+        .vision-button3{
+            background-color: mediumturquoise;
+
+        }
+.vision-button1, .vision-button2, .vision-button3{
+    border-radius: 10%;
+    color: #F5F5F5;
+    align-self: center;
+}
+
+
