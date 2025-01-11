@@ -28,7 +28,32 @@ nav.sign{
     border-color: #006A50;
 
 }
-banner1{
-    ;
+.banner1{
+    background-color: aquamarine;
+    border-radius: 8%;
+    margin: 26px;
 
 }
+.banner-title{
+    font-size: 24px;
+    font-weight:medium ;
+    color: #0E0E0E;
+    width: 622px;
+    height: 29px;
+
+}
+.banner-content{
+    font-size: 56px;
+    font-size: bold;
+    width: 622px;
+    height: 201px;
+    color: #0E0E0E;
+
+
+        }
+        .banner-button{
+            background-color:#006A50 ;
+            color: #F5F5F5;
+            border-radius: 5%;
+
+        }
